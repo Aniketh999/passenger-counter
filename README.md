@@ -1,6 +1,6 @@
 # Passenger-Counter
 
-Quick start:
+**Quick start:**
 
 ```
 $ npm install
